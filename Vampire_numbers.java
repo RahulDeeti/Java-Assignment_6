@@ -79,13 +79,13 @@ public class VampireNumber {
 				
 				
 				
-				if(count==125){		
+				if(count==100){		
 					break;
 				}
 				
 				
 			}
-			if(count==125){
+			if(count==100){
 				break;
 			}
 						
