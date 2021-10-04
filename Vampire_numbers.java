@@ -34,7 +34,7 @@ public class VampireNumber {
 				vampireNumber=firstNumber*secondNumber;
 				
 				
-				//both the numbers can't have zeros at the end
+				
 				if(firstNumber%10 == 0 && secondNumber%10==0){		
 					continue;
 				}
