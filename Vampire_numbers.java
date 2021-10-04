@@ -11,7 +11,7 @@ public class VampireNumber {
 		firstNumber=1;
 		secondNumber=1;
 		
-		System.out.println("The first 100 vampire numbers are :");
+		System.out.println("Printing first 100 vampier numbers");
 		
 		int count=1;
 		
